@@ -2,9 +2,9 @@
 AI based Task Manager Agent that uses OpenAI's GPT to extract and organize tasks from natural language input and uses sql database for storage and retrieval.
 
 # Features and Extraction
-Natural language task input
-Automatic extraction of task details:
- Task description
+#Natural language task input
+#Automatic extraction of task details:
+ #Task description
  Priority (urgent, high, medium, low)
  Status (defaults to "Not Started")
  Deadline dates
