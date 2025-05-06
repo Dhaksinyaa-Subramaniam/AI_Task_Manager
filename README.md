@@ -23,4 +23,6 @@ AI based Task Manager Agent that uses OpenAI's GPT to extract and organize tasks
 -Type show to display all saved tasks
 -Type exit to quit the application
 
+Project video explanation: https://vimeo.com/1081844713/9e41ba28c0?ts=0&share=copy
+
 
